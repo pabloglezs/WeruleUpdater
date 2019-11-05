@@ -1,0 +1,25 @@
+{
+  "federaciones":[
+    {
+      "nombre":"FCYLBM",
+      "logoconletras":"logoconletras_fcylbm.png",
+      "logosinletras":"logosinletras_fcylbm.png",
+      "atras":"atras_fcylbm.png",
+      "color":"color_fcylbm.css"
+    },
+    {
+      "nombre":"FBMRM",
+      "logoconletras":"logoconletras_fbmrm.png",
+      "logosinletras":"logosinletras_fbmrm.png",
+      "atras":"atras_fbmrm.png",
+      "color":"color_fbmrm.css"
+    },
+    {
+      "nombre":"mujer_y_arbitraje",
+      "logoconletras":"logoconletras_mujer_y_arbitraje.png",
+      "logosinletras":"logosinletras_mujer_y_arbitraje.png",
+      "atras":"atras_mujer_y_arbitraje.png",
+      "color":"color_mujer_y_arbitraje.css"
+    }
+  ]
+}
